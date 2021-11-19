@@ -12,3 +12,5 @@ new change
 conflict fixed
 
 new data
+
+no ff
